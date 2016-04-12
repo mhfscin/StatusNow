@@ -7,4 +7,5 @@ O objetivo deste projeto é desenvolver um aplicativo que auxilie os médicos e 
 Papel de cada membro:
 
 Matheus Ferreira - Master e Desenvolvedor
+
 Tiago Oliveira - Desenvolvedor
