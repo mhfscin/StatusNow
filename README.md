@@ -1,4 +1,4 @@
-# Projeto Engenharia de Software - StatusHere
+# Projeto Engenharia de Software - StatusNow
 
 O trabalho em uma UTI requer bastante esforço físico e psicológico de seus profissionais. Nele além da grande carga de estresse presente no ambiente essas pessoas estão sempre em movimento cuidando e fazendo o acompanhamento de seus pacientes.
 
